@@ -1,0 +1,12 @@
+{
+  "dark_theme": true,
+  "camera_index": 0,
+  "scan_qr_only": false,
+  "default_fg": "#000000",
+  "default_bg": "#FFFFFF",
+  "default_size": 10,
+  "default_border": 4,
+  "default_error_correction": "H",
+  "recent_paths": [],
+  "always_on_top": false
+}
