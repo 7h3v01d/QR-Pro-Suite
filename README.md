@@ -2,6 +2,12 @@
 
 A comprehensive, production-quality QR code and barcode management application built with PyQt6.
 
+---
+
+<img width="1920" height="1040" alt="screenshot" src="https://github.com/user-attachments/assets/39a74b2b-5ac1-414e-9158-5f5210f1a121" />
+
+---
+
 ## Features
 
 ### Generator Tab
